@@ -9,5 +9,6 @@ pkgs.mkShell {
     pkgs.gcc
     pkgs.clang
     pkgs.gnumake
+    pkgs.python3
   ];
 }
